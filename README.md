@@ -30,6 +30,7 @@
 		* Method name: `learn`
 		* Method parameters: `double numberOfHours`
 		* Method return-type: `void`
+      //tell leon NASTYA said it's confusing that they're out of order
 	* `Learner` should declare method signature:
 		* Method name: `getTotalStudyTime`
 		* Method return-type: `Double`
@@ -212,5 +213,16 @@
 
 
 -
-### Part 12.0 - Test `ZipCodeWilmington`
+### Part 12.0 - Test ` `
 * Ensure the `hostLecture` method can handle objects of type `Educator`.
+
+
+
+
+
+
+
+
+
+
+
